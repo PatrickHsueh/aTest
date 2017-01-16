@@ -13,6 +13,7 @@ public class Test2 {
     public static void main(String[] argv) {
         float y = 0;
         say("Hello, world\n");
+        say("Hello, GBR GBR \n");
         say("Hello, GBR update 2\n");
     }
 
