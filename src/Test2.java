@@ -1,4 +1,4 @@
-package noPkg;
+//package noPkg;
 
 public class Test2 {
 
